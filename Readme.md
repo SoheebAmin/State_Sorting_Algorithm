@@ -1,4 +1,4 @@
-# Some Practice in Data Structures and Algorithms, as well as inputs and validation for Java
+# Some Practice in Data Structures and Algorithms + Input Validation for Java
 
 This program was originally a project for a data structures and algorithms course. It has been modified to be a standalone repository.
 
